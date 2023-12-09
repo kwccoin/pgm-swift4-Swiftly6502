@@ -347,7 +347,7 @@ class scpu {
 	}
 	
 	func executeOp(_ op: instruction) {
-		var rawArg = operand()
+		let /* var */ rawArg = operand()
 		var accum = false
 		
 		var M: Int {
