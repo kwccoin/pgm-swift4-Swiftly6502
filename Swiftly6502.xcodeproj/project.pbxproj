@@ -311,7 +311,7 @@
 				DEVELOPMENT_TEAM = 546F74TH4Y;
 				INFOPLIST_FILE = Swiftly6502/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.iwillsecurity.Swiftly6502;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kwccoin.Swiftly6502;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_DISABLE_SAFETY_CHECKS = YES;
 				SWIFT_INSTALL_OBJC_HEADER = NO;
@@ -327,7 +327,7 @@
 				DEVELOPMENT_TEAM = 546F74TH4Y;
 				INFOPLIST_FILE = Swiftly6502/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.iwillsecurity.Swiftly6502;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kwccoin.Swiftly6502;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_DISABLE_SAFETY_CHECKS = YES;
 				SWIFT_INSTALL_OBJC_HEADER = NO;
